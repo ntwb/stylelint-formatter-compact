@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-formatter-compact",
+  "version": "0.1.0",
+  "description": "A compact formatter for stylelint",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ntwb/stylelint-formatter-compact.git"
+  },
+  "keywords": [
+    "styelint",
+    "stylelint-formatter",
+    "compact"
+  ],
+  "author": "Stephen Edgar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ntwb/stylelint-formatter-compact/issues"
+  },
+  "homepage": "https://github.com/ntwb/stylelint-formatter-compact#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
