@@ -6,6 +6,7 @@
   "scripts": {
     "commitmsg": "commitlint -e $GIT_PARAMS",
     "dry-release": "npmpub --dry --verbose",
+    "lint:js": "eslint . --ignore-path .gitignore",
     "release": "npmpub",
     "test": "test"
   },
@@ -30,8 +31,15 @@
   "devDependencies": {
     "@commitlint/cli": "^6.0.2",
     "@commitlint/config-conventional": "^6.0.2",
+    "eslint": "^4.15.0",
+    "eslint-config-stylelint": "^8.1.0",
     "husky": "^0.14.3",
     "npmpub": "^3.1.0"
+  },
+  "eslintConfig": {
+    "extends": [
+      "stylelint"
+    ]
   },
   "commitlint": {
     "extends": [
