@@ -1,6 +1,8 @@
 # stylelint-formatter-compact
 A [stylelint](https://stylelint.io/) _compact_ [formatter](https://stylelint.io/developer-guide/formatters/) inspired by ESLint [compact](https://eslint.org/docs/user-guide/formatters/#compact)formatter.
 
+[![Build Status](https://api.travis-ci.org/ntwb/stylelint-formatter-compact.svg?branch=master)](https://travis-ci.org/ntwb/stylelint-formatter-compact) [![NPM version](http://img.shields.io/npm/v/stylelint-formatter-compact.svg)](https://www.npmjs.org/package/stylelint-formatter-compact)
+
 ## Installation
 
 ```
