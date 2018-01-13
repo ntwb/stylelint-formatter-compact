@@ -33,19 +33,24 @@
     "@commitlint/config-conventional": "^6.0.2",
     "eslint": "^4.15.0",
     "eslint-config-stylelint": "^8.1.0",
+    "eslint-plugin-jest": "^21.6.1",
     "eslint-plugin-node": "^5.2.1",
     "husky": "^0.14.3",
+    "jest": "^22.0.6",
     "npmpub": "^3.1.0"
   },
   "eslintConfig": {
     "env": {
+      "jest": true,
       "node": true
     },
     "extends": [
       "stylelint",
+      "plugin:jest/recommended",
       "plugin:node/recommended"
     ],
     "plugins": [
+      "jest",
       "node"
     ]
   },
