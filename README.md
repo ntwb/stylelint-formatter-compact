@@ -1,5 +1,5 @@
 # stylelint-formatter-compact
-A compact formatter for stylelint
+A [stylelint](https://stylelint.io/) _compact_ [formatter](https://stylelint.io/developer-guide/formatters/) inspired by ESLint [compact](https://eslint.org/docs/user-guide/formatters/#compact)formatter.
 
 ## Installation
 
