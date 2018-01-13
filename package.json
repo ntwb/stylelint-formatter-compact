@@ -6,9 +6,11 @@
   "scripts": {
     "commitmsg": "commitlint -e $GIT_PARAMS",
     "dry-release": "npmpub --dry --verbose",
-    "lint:js": "eslint . --ignore-path .gitignore",
+    "jest": "jest",
+    "lint": "eslint . --ignore-path .gitignore",
     "release": "npmpub",
-    "test": "test"
+    "test": "npm run lint && npm run jest",
+    "watch": "jest --watch"
   },
   "repository": {
     "type": "git",
