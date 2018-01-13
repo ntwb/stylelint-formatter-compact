@@ -4,6 +4,7 @@
   "description": "A compact formatter for stylelint",
   "main": "index.js",
   "scripts": {
+    "commitmsg": "commitlint -e $GIT_PARAMS",
     "test": "test"
   },
   "repository": {
