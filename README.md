@@ -11,7 +11,7 @@ npm install stylelint-formatter-compact --save-dev
 
 ## Usage
 
-### stylelint CLI
+### [stylelint CLI](https://stylelint.io/user-guide/cli/)
 
 ```shell
 $ stylelint file.css --custom-formatter=node_modules/stylelint-formatter-compact
