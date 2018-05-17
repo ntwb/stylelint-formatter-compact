@@ -43,7 +43,7 @@
     "stylelint": "^9.0.0"
   },
   "peerDependencies": {
-    "stylelint": ">=8.4.0 || <10.0.0"
+    "stylelint": ">=8.4.0 <10.0.0"
   },
   "eslintConfig": {
     "env": {
