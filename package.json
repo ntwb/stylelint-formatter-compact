@@ -31,7 +31,7 @@
     "lodash": "^4.17.10"
   },
   "devDependencies": {
-    "@commitlint/cli": "^6.2.0",
+    "@commitlint/cli": "^7.0.0",
     "@commitlint/config-conventional": "^7.0.1",
     "eslint": "^4.19.1",
     "eslint-config-stylelint": "^8.1.0",
