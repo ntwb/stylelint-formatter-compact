@@ -35,7 +35,7 @@
     "@commitlint/config-conventional": "^7.0.1",
     "eslint": "^5.1.0",
     "eslint-config-stylelint": "^8.1.0",
-    "eslint-plugin-jest": "^21.15.1",
+    "eslint-plugin-jest": "^21.20.0",
     "eslint-plugin-node": "^7.0.0",
     "husky": "^0.14.3",
     "jest": "^22.4.3",
