@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/ntwb/stylelint-formatter-compact#readme",
   "dependencies": {
-    "lodash": "^4.17.10"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
     "@commitlint/cli": "^7.0.0",
