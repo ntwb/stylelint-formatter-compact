@@ -3,6 +3,11 @@ A [stylelint](https://stylelint.io/) _compact_ [formatter](https://stylelint.io/
 
 [![Build Status](https://api.travis-ci.org/ntwb/stylelint-formatter-compact.svg?branch=master)](https://travis-ci.org/ntwb/stylelint-formatter-compact) [![NPM version](http://img.shields.io/npm/v/stylelint-formatter-compact.svg)](https://www.npmjs.org/package/stylelint-formatter-compact)
 
+## Deprecated
+
+This package has been deprecated. This package is now included in [stylelint](https://github.com/stylelint/stylelint) core
+
+
 ## Installation
 
 ```
